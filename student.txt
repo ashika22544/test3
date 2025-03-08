@@ -1,0 +1,7 @@
+    Student Information
+
+Name    : Ashika.v
+Rollno  : 14
+Class   : BCA 
+Section : C section
+Dept    : Computer science
