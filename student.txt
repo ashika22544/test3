@@ -6,3 +6,4 @@ Class   : BCA
 Section : C section
 Dept    : Computer science
 College : Kristu jaynti college
+contact no : 56285928218
